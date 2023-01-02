@@ -1,0 +1,34 @@
+.shakespeare{
+    font-size: medium;
+    font-family: fantasy;
+     background-color: darkslategray;
+    color: lightcyan;
+}
+
+.note{
+    font-size: small;
+    font-family: serif;
+    color: black;
+    background-color: rgb(242, 221, 98);
+}
+
+.zeus{
+    font-size:larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightgray;
+    background-color: lightskyblue;
+}
+
+canvas{
+    background:lightcyan;
+    border-style:groove;
+    border-color: black;
+    
+}
+
+#zeus{
+    font-size:xx-large;
+    width: 13cm;
+    height:2cm;
+
+}
